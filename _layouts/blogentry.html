@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width" />
+   <title>{{ page.title }}</title>
+   <style>
+      .content {
+         margin: 8px 20px;
+         width: 560px;
+      }
+
+      #intro {
+         text-align: center;
+         font-size: 200%;
+         font-variant: small-caps;
+      }
+
+      .smalltext {
+         font-size: 70%;
+      }
+
+   </style>
+   {% include ga_header.html %}
+</head>
+
+<body>
+<div class="content">
+{{ content }}
+</div>
+</body>
+</html>
+
