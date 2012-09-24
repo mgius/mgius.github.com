@@ -1,7 +1,8 @@
 ---
 layout: blogentry
 title : The Legend of Zelda Skyward Sword
-categories : [games, reviews]
+categories : [games]
+tags: [reviews, wii, nintendo]
 ---
 
 # The Legend of Zelda: Skyward Sword
