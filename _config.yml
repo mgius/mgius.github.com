@@ -2,7 +2,8 @@ title:            markgius.com
 tagline:          My Name is Mark Gius
 description:      Coder, Gamer
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://markgius.com
+url:              http://markgius.com
+image_url: http://images.markgius.com.s3-website-us-east-1.amazonaws.com
 
 # Owner/author information
 owner:
