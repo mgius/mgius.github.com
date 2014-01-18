@@ -16,3 +16,7 @@ November 15th, 2014
 # Where
 
 The [Redondo Beach Historic Library](http://www.rbhistoriclibrary.com/)
+
+## Contact Us
+
+ * Questions? email wedding@markgius.com
