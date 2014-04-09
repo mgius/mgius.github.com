@@ -9,6 +9,8 @@ image:
 modified: 11-10-2013
 ---
 
+{% include wedding-header.html %}
+
 # When
 
 November 15th, 2014
