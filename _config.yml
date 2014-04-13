@@ -41,6 +41,8 @@ wedding_links:
     url: /wedding
   - title: Hotels
     url: /wedding/hotels.html
+  - title: Registries
+    url: /wedding/registries.html
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles

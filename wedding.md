@@ -26,6 +26,4 @@ available, the website is updated with new information, etc...
 
 <iframe src="https://docs.google.com/forms/d/1F-gqWFwx0pgDJZBr0rwSZfXvMgoeXYHvKI8zoBpEAzg/viewform?embedded=true" width="760" height="280" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-## Questions?
-
-Email <wedding@markgius.com>
+{% include wedding-footer.md %}

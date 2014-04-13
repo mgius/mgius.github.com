@@ -11,8 +11,24 @@ modified: 04-08-2014
 
 {% include wedding-header.html %}
 
-Coming Soon
+The Crowne Plaza in Redondo Beach is located less than a mile from the wedding
+venue, and is located right near the Redondo Beach Boardwalk.  They are
+offering a wedding rate, including discounted parking.
 
-## Questions?
+<br />
+Click the logo to make a reservation online, no special code needed.
 
-Email <wedding@markgius.com>
+<br />
+<a href="http://bit.ly/weddinginspiration">
+   <img src="http://prodcache.internal.ihg.com/content/dam/etc/media_library/branded/cp/cn/logos/headerLogo.png" 
+        alt="Crowne Plaza Redondo Beach" />
+</a>
+
+<br />
+Reserve via phone by calling 310-318-8888 or 1-800-368-9760. 
+Ask for "Wedding Rate" or code "IDOTHWED".
+
+<br />
+There are <a href="https://www.google.com/maps/search/hotels/@33.8372859,-118.3895401,15z">many more</a> hotels in Redondo Beach near the venue.
+
+{% include wedding-footer.md %}
