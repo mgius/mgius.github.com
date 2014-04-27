@@ -11,9 +11,6 @@ modified: 04-12-2014
 
 {% include wedding-header.html %}
 
-Coming Soon
-
-<!--
 We are registered at the following locations.
 
 <br />
@@ -27,7 +24,5 @@ We are registered at the following locations.
    <img src="{{ site.image_url }}/myregistry.png" 
         alt="MyRegistry.com" />
 </a>
-
--->
 
 {% include wedding-footer.md %}
