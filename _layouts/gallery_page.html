@@ -1,0 +1,32 @@
+---
+layout: page
+suppress_bio: true
+---
+<style TYPE="text/css">
+.gallery-image-wrapper {
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+  margin: 1em;
+  position: relative;
+  text-align: center;
+}
+.gallery-image {
+  margin: auto;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  max-height: 100%;
+  max-width: 100%;
+}
+</style>
+<h4><a href="/{{ site.gallery.dir }}">Return to Gallery Index</a></h4>
+<hr />
+{% for image in page.images %}
+    <div class="gallery-image-wrapper">
+        <a name="{{ image }}"></a>
+        <a href="{{ site.image_url }}/galleries/{{ page.gallery }}/{{ image }}"{% if site.gallery.lightbox %} rel="lightbox[{{ page.gallery }}]"{% endif %}>
+            <img class="gallery-image" src="{{ site.image_url }}/galleries/{{ page.gallery }}/thumbs/{{ image }}" />
+        </a>
+    </div>
+{% endfor %}
