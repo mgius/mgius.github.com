@@ -18,3 +18,6 @@ sync-upload-delete:
 	echo "Confirm previous action to execute: [ctrl-c to quit]"
 	read confirm
 	$(AWS_CMD) s3 sync $(UPLOAD_FLAGS) --delete $(LOCAL_FOLDER) $(IMAGE_BUCKET)
+
+gather-galleries:
+	bash ./collect_galleries.sh
