@@ -25,6 +25,7 @@ We are registered at the following locations.
         alt="MyRegistry.com" />
 </a>
 
+<br />
 <a href="http://smile.amazon.com/registry/wedding/2ZRTHDNRRB0UA">
    <img src="{{ site.image_url }}/amazon_logo.jpg" 
         alt="Amazon.com"/>
