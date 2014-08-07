@@ -47,6 +47,8 @@ wedding_links:
     url: /wedding/registries.html
   - title: RSVP
     url: /wedding/rsvp.html
+  - title: Engagement Photos
+    url: /galleries/engagement_photos
 
 gallery:
   dir: images/galleries
