@@ -11,6 +11,10 @@ modified: 11-10-2013
 
 {% include wedding-header.html %}
 
+# RSVP
+
+Received your invitation?  [Click Here](/wedding/rsvp/) to RSVP.
+
 # When
 
 November 15th, 2014
