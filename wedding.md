@@ -13,7 +13,7 @@ modified: 11-10-2013
 
 # RSVP
 
-Received your invitation?  [Click Here](/wedding/rsvp/) to RSVP.
+Received your invitation?  [Click Here](/wedding/rsvp) to RSVP.
 
 # When
 
