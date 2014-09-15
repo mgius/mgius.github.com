@@ -16,15 +16,6 @@ venue, and is located right near the Redondo Beach Boardwalk.  They are
 offering a wedding rate, including discounted parking.
 
 <br />
-Click the logo to make a reservation online, no special code needed.
-
-<br />
-<a href="http://bit.ly/weddinginspiration">
-   <img src="http://prodcache.internal.ihg.com/content/dam/etc/media_library/branded/cp/cn/logos/headerLogo.png" 
-        alt="Crowne Plaza Redondo Beach" />
-</a>
-
-<br />
 Reserve via phone by calling 310-318-8888 or 1-800-368-9760. 
 Ask for "Wedding Rate" or code "IDOTHWED".
 
