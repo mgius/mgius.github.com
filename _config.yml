@@ -41,12 +41,16 @@ links:
 wedding_links:
   - title: Main
     url: /wedding
+  - title: Ceremony Info
+    url: /wedding/ceremony.html
   - title: Hotels
     url: /wedding/hotels.html
   - title: Registries
     url: /wedding/registries.html
   - title: RSVP
     url: /wedding/rsvp.html
+  - title: Our Story
+    url: /wedding/story.html
   - title: Engagement Photos
     url: /galleries/engagement_photos
 
