@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /wedding/ceremony.html
-description: “Ceremony Information”
+description: "Ceremony Information"
 tags: [wedding]
 suppress_bio: true
 image:
@@ -13,21 +13,25 @@ modified: 09-20-2014
 
 # Ceremony 
 
-The Ceremony starts at 4:00 pm at the <a href="https://www.google.com/maps/place/Redondo+Beach+Historic+Library/@33.837606,-118.389754,15z/data=!4m2!3m1!1s0x0:0x1db6acca8a3fefd2">Redondo Beach Historial Library</a>. The valet parking is available half an hour before, starting at 3:30pm.  
-
-<br />
+The Ceremony starts at 4:00 pm at the 
+<a href="https://goo.gl/maps/5gSsp">Redondo Beach Historical Library</a>.
+Complimentary valet parking is available beginning at 3:30PM located in the
+driveway for the venue (see map below).
 
 # Getting There
 
-Below is a map of where to go for the ceremony and parking. Make sure to following the driving route or you may end up under the pier.  
+Getting to the venue can be slightly tricky. Please find walking directions
+from the Crowne Plaza to the venue
+<a href="https://goo.gl/maps/GSOlb">right here</a>.
 
-Here are the <a href="https://www.google.com/maps/dir/Crowne+Plaza+Redondo+Beach+And+Marina,+300+N+Harbor+Dr,+Redondo+Beach,+CA+90277/33.8378366,-118.3896522/@33.8416039,-118.3919853,16z/data=!4m9!4m8!1m5!1m1!1s0x80c2b4a00814629f:0x3d03ac1314579099!2m2!1d-118.392478!2d33.845612!1m0!3e2">directions</a> from the Crowne Plaza to the venue. From there it is less an mile if you so wish to walk. 
+Please see the highlighted driving route below for directions to the venue's
+provided valet parking. The driveway heading into the venue can be somewhat
+confusing. If you find yourself underneath the Pier, you've taken a wrong turn.
+
 <br />
 <a href="{{ site.image_url }}/venue_map.png">
    <img src="{{ site.image_url }}/venue_map_small.png"
         alt="venue maps"/>
 </a>
-
-
 
 {% include wedding-footer.md %}
