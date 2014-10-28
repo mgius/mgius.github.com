@@ -11,6 +11,9 @@ modified: 04-08-2014
 
 {% include wedding-header.html %}
 
+<b>UPDATE: We have been informed that the Crowne Plaza is sold out for the weekend.</b>
+
+<br />
 The Crowne Plaza in Redondo Beach is located less than a mile from the wedding
 venue, and is located right near the Redondo Beach Boardwalk.  They are
 offering a wedding rate, including discounted parking.

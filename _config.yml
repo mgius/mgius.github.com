@@ -12,10 +12,10 @@ owner:
   bio:            "Programmer working for cloud company Nebula, Inc"
   email:          hello@markgius.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        http://twitter.com/markgius
-  facebook:       https://www.facebook.com/mgius
-  github:         https://github.com/mgius/
-  linkedin:       http://www.linkedin.com/in/markgius
+  twitter:        markgius
+  facebook:       mgius
+  github:         mgius
+  linkedin:       markgius
   instagram:      
   lastfm:         
   tumblr:         
